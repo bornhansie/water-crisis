@@ -1,5 +1,3 @@
-# water-crisis
-
 # Repo for the water_crisis Dashboard
 This Repo will store the scripts and dashboard regarding the Visualise phase
 
