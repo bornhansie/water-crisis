@@ -3,9 +3,5 @@ This Repo will store the scripts and dashboard regarding the Visualise phase
 
 # Connection to Database
 
-- server: localhost/SQLEXPRESS01
-- database: ctwc
-
-- The database can be found under Pre-Processing in the Analyse tab on Athena
-
-- Restore the database in you local Microsoft SQL Server Database
+- The connection has already been made through the RDS instance
+- The logins for the database is on Slack
